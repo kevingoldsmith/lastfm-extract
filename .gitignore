@@ -1,0 +1,6 @@
+.vscode/
+lastfm-venv/
+.DS_Store
+data/
+exported_tracks.txt
+config.ini
